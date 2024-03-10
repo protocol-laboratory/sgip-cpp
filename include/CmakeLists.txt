@@ -1,0 +1,5 @@
+add_library(sgipcpp
+        sgipcpp/impl/BoundAtomic.cpp
+        sgipcpp/impl/Client.cpp
+        sgipcpp/impl/Protocol.cpp
+)

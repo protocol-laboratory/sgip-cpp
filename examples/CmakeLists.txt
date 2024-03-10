@@ -1,0 +1,3 @@
+add_executable(sgip_client_login_example SgipClientLoginExample.cpp)
+
+target_link_libraries(sgip_client_login_example sgipcpp)
